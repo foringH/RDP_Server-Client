@@ -1,0 +1,55 @@
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe.config
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.pdb
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.MSTSCLib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.RDPCOMAPILib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.RDPCOMAPILib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csprojResolveAssemblyReference.cache
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.MSTSCLib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.RDPCOMAPILib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.RDPCOMAPILib.dll
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.ResolveComReference.cache
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Form1.resources
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Properties.Resources.resources
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.GenerateResource.Cache
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.exe
+c:\users\pusalk\documents\visual studio 2012\Projects\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.pdb
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe.config
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.ResolveComReference.cache
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.exe
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.pdb
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.pdb
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.RDPCOMAPILib.dll
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Form1.resources
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Properties.Resources.resources
+C:\Users\Acer\Downloads\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.GenerateResource.Cache
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe.config
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.MSTSCLib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Interop.RDPCOMAPILib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.MSTSCLib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\AxInterop.RDPCOMAPILib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.ResolveComReference.cache
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.exe
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.pdb
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csprojResolveAssemblyReference.cache
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Form1.resources
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple_RDP_Client.Properties.Resources.resources
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\obj\Debug\Simple RDP Client.csproj.GenerateResource.Cache
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.exe
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Simple RDP Client.pdb
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.MSTSCLib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\Interop.RDPCOMAPILib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.MSTSCLib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\AxInterop.RDPCOMAPILib.dll
+D:\RDP\RDP\Simple RDP Client\Simple RDP Client\bin\Debug\mousekeyboardactivitymonitor.dll
